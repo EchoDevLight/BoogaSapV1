@@ -1,6 +1,3 @@
-
-e
-fg
-ff
-f
-d
+if game.PlaceId == 4787629450 then
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/EchoDevLight/BoogaSapV1/main/BoogaBoogaClassic"), true))()
+end
